@@ -1,4 +1,4 @@
-const passkey = "josey"; // Replace "your_passkey" with your desired passkey
+const passkey = "joseyismyworld"; // Replace "your_passkey" with your desired passkey
 
 function checkPasskey() {
     const passkeyInput = document.getElementById("passkeyInput").value;
